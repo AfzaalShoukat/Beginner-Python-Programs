@@ -7,8 +7,6 @@ square_root = num**0.2  # square root of the user value/num**(1/2)
 print("The Square root of the number is : ",square_root)
 
 # using Math Module  
-
-
 import math
 
 num = int(input("Enter the number "))
